@@ -3,7 +3,7 @@
 ## What is it?
 This project is created just with HTML and CSS in order to understand the bases of Frontend Development, HTML, CSS and Responsive Design focused on Mobile first. If you want to check the project, please follow the link:
 
-- [Batatabit](https://imorangedev.github.io/Batatabit/)
+- [Batatabit](https://diegonaranjo94.github.io/Batatabit/)
 
 There you can find implementation of:
 
