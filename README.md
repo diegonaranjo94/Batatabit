@@ -38,9 +38,6 @@ To run this project locally:
    ```
 3. Open `index.html` in your preferred web browser.
 
-## Additional Resources
-If you are interested in learning more about programming with Python and backend development, check out my notes:
-
 ---
 ## 📞 Connect with me:
 <div>
